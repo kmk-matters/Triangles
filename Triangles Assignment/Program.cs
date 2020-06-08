@@ -18,7 +18,7 @@ namespace Triangles_Assignment
 
             {
 
-
+                //Basic check for a triangle sides
                 if (a == b && b == c)
 
 
